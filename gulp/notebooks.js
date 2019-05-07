@@ -10,7 +10,7 @@ const extensions = [
   ".ts"
 ];
 
-function convertNotebooks() {
+export function convertNotebooks() {
   const options = {
     continueOnError: false, // default = false, true means don't emit error event
     pipeStdout: false // default = false, true means stdout is written to file.contents
