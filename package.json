@@ -54,6 +54,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-cached": "^1.1.1",
     "gulp-eslint": "^5.0.0",
+    "gulp-exec": "^3.0.2",
     "gulp-mocha": "^6.0.0",
     "gulp-newer": "^1.4.0",
     "gulp-sourcemaps": "^2.6.5",

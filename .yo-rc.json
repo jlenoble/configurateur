@@ -3,7 +3,7 @@
     "createdWith": "0.6.0-1",
     "modifiedWith": "0.6.0-1",
     "createdOn": "2019-05-06T07:58:45.032Z",
-    "modifiedOn": "2019-05-06T13:45:56.749Z",
+    "modifiedOn": "2019-05-07T09:10:41.439Z",
     "gulp": true,
     "typescript": true,
     "jsx": false,
@@ -23,6 +23,7 @@
     "buildDir": "build",
     "docDir": "doc",
     "libDir": "lib",
-    "gulpDir": "gulp"
+    "gulpDir": "gulp",
+    "jupyter": true
   }
 }
